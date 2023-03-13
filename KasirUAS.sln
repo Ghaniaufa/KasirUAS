@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KasirUAS", "KasirUAS.csproj", "{0F3865E7-73AB-4AE7-A76F-4F2823E2A7DD}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupKasirKafe", "..\SetupKasirKafe\SetupKasirKafe.vdproj", "{9F7085DE-3CF6-4B50-965B-B6F00D844F52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F3865E7-73AB-4AE7-A76F-4F2823E2A7DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F3865E7-73AB-4AE7-A76F-4F2823E2A7DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F3865E7-73AB-4AE7-A76F-4F2823E2A7DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F3865E7-73AB-4AE7-A76F-4F2823E2A7DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F7085DE-3CF6-4B50-965B-B6F00D844F52}.Debug|Any CPU.ActiveCfg = Debug
+		{9F7085DE-3CF6-4B50-965B-B6F00D844F52}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E908FA69-315D-448B-817F-EBF3BE93A521}
+	EndGlobalSection
+EndGlobal
